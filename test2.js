@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         swag(R站)vip视频随意观看&19J.TV韩国女主播vip视频任意看 永久vip
-// @name:zh-TW   swag(R站)vip視頻隨意觀看&19J.TV韓國女主播vip視頻任意看 永久vip
+// @name         swag(R站)vip破解测试zhoulxa
+// @name:zh-TW   swag(R站)vip破解测试zhoulxa
 // @namespace    http://tampermonkey.net/
 // @version      2.4.1
 // @description  用于观看swag(R站)vip视频&19J.TV韩国女主播vip视频
